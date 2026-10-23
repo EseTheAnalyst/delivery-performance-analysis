@@ -32,7 +32,7 @@ actual and expected delivery times.
 TOOLS
 
 MySQL / MySQL Workbench — Primary tool used for data preparation, cleaning, validation and analysis. 
-SQL was used to investigate data quality, create a unique record identifier, standardize the dataset and calculate the four delivery-performance KPIs.
+SQL was used to investigate data quality, create a unique record identifier, standardize the dataset and calculate the three delivery-performance KPIs.
 
 Kaggle — Source of the logistics dataset.
 
